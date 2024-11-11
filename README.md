@@ -1,0 +1,1 @@
+# Model-collapse-for-latent-space-rectified-flow
